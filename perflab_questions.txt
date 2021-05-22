@@ -1,0 +1,39 @@
+# ENGSCI233: Lab - Combinatorics
+# perflab_questions.txt
+
+# PURPOSE:
+# Answer questions related to lu_factor optimisation
+
+# SUBMISSION:
+# - You MUST submit this file. 
+# - DO NOT rename this file.
+
+# QUESTION 1.4:
+# ------------
+# WHAT is the scaling of LU factorisation in Big O notation?
+
+# **your answer here**
+
+# QUESTION 2.2:
+# ------------
+# EXPLAIN how the printout indicates that row_reduction() is the main bottleneck
+
+# **your answer here**
+
+# QUESTION 3.2:
+# ------------
+# QUANTIFY the speed-up of lu_factor() (to the nearest order of magnitude)
+
+# **your answer here**
+
+# QUESTION 4.2:
+# ------------
+# RUN the serial code below. HOW LONG does it take to factorise all the matrices. 
+
+# **your answer here**
+
+# QUESTION 4.3:
+# ------------
+# PARALLELISE the factorisation task - what speedup can you achieve?
+
+# **your answer here**
